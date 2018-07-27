@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(07/27/2018)
 
 ### Student Name:  
-(First and Last Name)
+(Kyle Leombruno)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I used Jquery commands to make interative changes to a webpage. I made the words "instructions" and "ingredients" interative to clicking and hovering)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://kleombruno.github.io/lesson7_jquery/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (the command for the javascript terminal on mac)
+2. (how to create animations when the mouse interacts with an element)
+3. (how to append and prepend an object to easily move around elements)
 
